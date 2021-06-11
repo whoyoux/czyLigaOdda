@@ -22,10 +22,8 @@
                 "foregroundImage": "./assets/adaptive-icon.png",
                 "backgroundColor": "#FFFFFF"
             },
-            "android": {
-                "package": "com.whoyoux.czyLigaOdda",
-                "versionCode": 1
-            }
+            "package": "com.whoyoux.czyLigaOdda",
+            "versionCode": 1
         },
         "web": {
             "favicon": "./assets/favicon.png"
